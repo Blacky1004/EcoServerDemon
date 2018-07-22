@@ -1,0 +1,17 @@
+﻿{
+  "server_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Eco Server\\",
+  "restarts": [
+    "0:00",
+    "06:00",
+    "12:00",
+    "18:00"
+  ],
+  "updates": [
+    "0:00"
+  ],
+  "steam": {
+    "cmd_path": "C:\\Users\\jenss\\Downloads\\steamcmd",
+    "username": "",
+    "password": ""
+  }
+}
